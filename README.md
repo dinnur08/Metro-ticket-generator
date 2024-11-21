@@ -1,1 +1,1 @@
-Here is the website https://moraputalapraveen.github.io/Hyderabad_metro_ticket/
+Here is the website https://dinnur08.github.io/Metro-ticket-generator/
